@@ -1,0 +1,19 @@
+{
+  "device": "/dev/video0",
+  "width": 640,
+  "height": 480,
+  "fps": 120,
+  "fourcc": "MJPG",
+  "controls": {
+    "auto_exposure": 1,
+    "exposure": 80,
+    "auto_white_balance": 0,
+    "white_balance": 4600,
+    "gain": 0,
+    "brightness": 0,
+    "contrast": null,
+    "saturation": null,
+    "power_line_freq": 2,
+    "auto_focus": 0
+  }
+}
